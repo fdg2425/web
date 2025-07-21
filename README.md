@@ -9,9 +9,9 @@ Flutter uses the programming language Dart, so first we learned some basic conce
 
 Then we built our first Flutter app using UI elements like Buttons, Switches, Sliders, ListTiles, Texts and Images and we installed it on our Android devices.
 
-Next we did some mathematics and learned how to calculate _3D transformations_ by multiplying four dimensional matrices. In our [app]() we could demonstrate visually, that matrix multiplication is not commutative.
+Next we did some mathematics and learned how to calculate _3D transformations_ by multiplying four dimensional matrices. In our [app](https://fdg2425.github.io/web/three_axis_transform_using_git/) we could demonstrate visually, that matrix multiplication is not commutative.
 
-From that point on we used Git to manage the code of our projects and built an app with an _UI like Whatsapp_. It has a hamburger menu, several settings pages, a bottom navigation bar and a scrollable Listview, see [here].
+From that point on we used Git to manage the code of our projects and built an app with an _UI like Whatsapp_. It has a hamburger menu, several settings pages, a bottom navigation bar and a scrollable Listview with badges on the items, see [here](https://fdg2425.github.io/web/whatsapp_ui/).
 
 Then we learned to use the Stack widget, gradient colors and Timers in Flutter and built our [flying_balls](https://fdg2425.github.io/web/flying_balls/) application. With panning you can resize the surrounding box of the balls, so we made some experience with gesture detection in Flutter.
 
