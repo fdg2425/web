@@ -17,10 +17,12 @@ Then we learned to use the Stack widget, gradient colors and Timers in Flutter a
 
 Jumping balls are the challenge in the game [Bubble Trouble](https://poki.com/en/g/bubble-trouble). On [Youtube](https://www.youtube.com/watch?v=ZBLOxhiym7k) we had a look how Japanese developer Mitch Koko has implemented a basic version of this game in Flutter and we discussed how to improve Mitch's version with some additional features, see [here](https://fdg2425.github.io/webtest/bubble/navalnorth_branch_gs_ideas/). In case you are interested, you can find more details on our work with Bubble Trouble [here](https://fdg2425.github.io/webtest/bubble/).
 
-Finally we learned how to use external packages in our Flutter apps. As an example we built a Lux Meter where we used [syncfusion_flutter_gauges](https://pub.dev/packages/syncfusion_flutter_gauges) to display the current lux value in a gauge and [fl_chart](https://pub.dev/packages/fl_chart) to show the past values in a line chart.
+Finally in July 2025 we learned how to use external packages in our Flutter apps. As an example we built a [Lux Meter]() where we used [syncfusion_flutter_gauges](https://pub.dev/packages/syncfusion_flutter_gauges) to display the current lux value in a gauge and [fl_chart](https://pub.dev/packages/fl_chart) to show the past values in a line chart.
 
 Thanks to __Alexander__ and __Jonas__ for their strong commitment during the training.
-<br><br>
+
+<br>
+
 ***
 <br>
 Here some screenshots:
