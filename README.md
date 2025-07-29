@@ -55,6 +55,7 @@ Here some screenshots:
 ***
 <br>
 
-You can download the apks if these apps to your android device via the following links:
+You can download the apks if these apps from the following GitHub repository:
 
-[fdg_lux_meter](https://fdg2425.github.io/apks/fdg_lux_meter.apk/)
+[https://github.com/fdg2425/apks](https://github.com/fdg2425/apks)
+
